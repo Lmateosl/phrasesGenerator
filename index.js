@@ -7,19 +7,19 @@ const phrases = {
         complement2: ["to succeed", "to achive", "to triumph", "to thrive" ]
     },
     get subject () {
-        return this._parts.subject[Math.floor(Math.random() * this._parts.subject.length)];
+        return this._parts.subject[Math.floor(Math.random() * (this._parts.subject.length - 1))];
     },
     get verb () {
-        return this._parts.verb[Math.floor(Math.random() * this._parts.verb.length)];
+        return this._parts.verb[Math.floor(Math.random() * (this._parts.verb.length - 1))];
     },
     get article () {
-        return this._parts.article[Math.floor(Math.random() * this._parts.article.length)];
+        return this._parts.article[Math.floor(Math.random() * (this._parts.article.length - 1))];
     },
     get complement () {
-        return this._parts.complement[Math.floor(Math.random() * this._parts.complement.length)];
+        return this._parts.complement[Math.floor(Math.random() * (this._parts.complement.length - 1))];
     },
     get complement2 () {
-        return this._parts.complement2[Math.floor(Math.random() * this._parts.complement2.length)];
+        return this._parts.complement2[Math.floor(Math.random() * (this._parts.complement2.length - 1))];
     }
 }
 
