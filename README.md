@@ -14,8 +14,9 @@
  4. In the folder of the project run:
 
         node index.js
-
- 5. Enjoy the good phrases.
+        
+ 5. Run the command the times you want to generate new phrases.
+ 6. Enjoy the good phrases.
 
  ## Stack:
    + JavaScript
