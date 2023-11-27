@@ -1,0 +1,19 @@
+{
+  "name": "phrasegenerator",
+  "version": "1.0.0",
+  "description": "Ramdon Phrases Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lmateosl/phrasesGenerator.git"
+  },
+  "author": "Mateo Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lmateosl/phrasesGenerator/issues"
+  },
+  "homepage": "https://github.com/Lmateosl/phrasesGenerator#readme"
+}
