@@ -6,7 +6,7 @@
 
  ## Instrucctios: 
  1. Clone the repository.
- 2. Check if you have node installed
+ 2. Check if you have node installed:
 
         node --version
 
@@ -14,7 +14,7 @@
  4. In the folder of the project run:
 
         node index.js
-        
+
  5. Enjoy the good phrases.
 
  ## Stack:
